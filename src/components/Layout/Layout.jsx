@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Outlet } from 'react-router-dom'
 import Navbar from '../Navbarr/Navbarr'
-import Footer from '../Footer/Footer'
+import Footer from '../footer/Footer'
 
 export default function Layout() {
   return (
