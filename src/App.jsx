@@ -13,7 +13,7 @@ import ResetPassword from './components/ResetPassword/ResetPassword'
 import ApartmentDetails from './components/ApartmentDetails/ApartmentDetails.jsx'
 import Profile from './components/Profile/Profile.jsx'
 import Setting from './components/Setting/Setting.jsx'
-import Sell from './components/sell/sell.jsx'
+import Sell from './components/Sell/Sell.jsx'
 import Wishlist from './components/Wishlist/Wishlist.jsx';
 import Admin from './components/Admin/Admin.jsx'
 import DashBoard from './components/DashBoard/DashBoard.jsx'
